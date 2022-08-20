@@ -16,7 +16,6 @@ body {
   color: var(--main-color);
   background-color: var(--main-white);
   font-family: Roboto, sans-serif;
-  letter-spacing: 0.03em;
 }
 
 ul {
@@ -30,6 +29,7 @@ ul {
   font-size: 26px;
   line-height: 1.19;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 
 .logo-web {
@@ -99,6 +99,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .about-text {
@@ -106,6 +107,7 @@ ul {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 /* gallery */
 .title {
@@ -113,6 +115,7 @@ ul {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 /* team */
 .group-title {
@@ -120,6 +123,7 @@ ul {
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 
 .group-text {
@@ -128,6 +132,7 @@ ul {
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 
 /* footer */
@@ -143,6 +148,7 @@ ul {
   font-size: 26px;
   line-height: 1.19;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 
 .address {
@@ -150,6 +156,7 @@ ul {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 
 .contacts {
@@ -157,6 +164,7 @@ ul {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
 }
 .contacts:hover,
 .contacts:focus {
@@ -172,6 +180,7 @@ ul {
   line-height: 1.63;
   text-align: center;
   cursor: pointer;
+  letter-spacing: 0.03em;
 }
 
 .filter-btn:hover,
@@ -190,4 +199,5 @@ ul {
 .filter-text {
   font-size: 16px;
   line-height: 1.88;
+  letter-spacing: 0.03em;
 }
