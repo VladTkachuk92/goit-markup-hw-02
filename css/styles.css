@@ -185,3 +185,7 @@ ul {
   font-size: 16px;
   line-height: 1.88;
 }
+.filter-btn.active {
+  color: var(--main-white);
+  background-color: var(--accent-color);
+}
